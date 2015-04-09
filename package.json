@@ -1,7 +1,7 @@
 {
   "name": "template-bundler",
   "version": "1.0.0",
-  "description": "Given a directory of .template.html files, produces a TypeScript file containing a hash of stringified templates",
+  "description": "Simple template bundler for TypeScript",
   "main": "lib/tb.js",
   "repository": {
     "type": "git",
