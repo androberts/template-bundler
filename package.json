@@ -1,18 +1,19 @@
 {
   "name": "template-bundler",
-  "version": "1.0.0",
-  "description": "Given a directory of .template.html files, produces a TypeScript file containing a hash of stringified templates",
+  "version": "0.1.0",
+  "description": "Given a directory of *.html files, produces a TypeScript file containing a hash of stringified templates",
   "main": "lib/tb.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/aroberts-illumina/template-bundler.git"
   },
   "keywords": [
-    "TypeScript",
+    "typescript",
     "templates",
-    "JavaScript"
+    "javascript",
+    "bundler"
   ],
-  "author": "Andrew Roberts",
+  "author": "Andrew Roberts <aroberts@illumina.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aroberts-illumina/template-bundler/issues"
